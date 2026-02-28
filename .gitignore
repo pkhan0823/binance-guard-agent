@@ -1,0 +1,10 @@
+# API Keys and Secrets
+.env
+
+# Python virtual environments
+venv/
+_pycache_/
+
+# OS generated files
+.DS_Store
+Thumbs.db
